@@ -1,2 +1,2 @@
 # me_ci
-Measurement error in concentration indices.
+This repository contains simulations and exploratory data analyses evaluating the impact of classical measurement error on the standard concentration index.
